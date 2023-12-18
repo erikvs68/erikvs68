@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I am a Full-Stack Developer. I started my developer journey during COVID in 2020. I have spend the last year completing my IBM Data Analyst certificate and core focus now is specializing in areas of interest including Development, Microsoft and AI Engineering. I have a finance background and continue to focus on the three points around Technology, being Finance, Data and Business (My areas of interest).
+Hi, I am a Full-Stack Developer. I started my developer journey during COVID in 2020. I have spend the last year completing my IBM Data Analyst certification. My core focus now, is specializing in my areas of interest including Development, Microsoft and AI Engineering. I have a finance and business background and continue to focus on the three areas around technology, being Finance, Data and Business.
 
 
 ## 🌐 Socials:
