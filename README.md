@@ -1,6 +1,9 @@
 
 # 💫 About Me:
-Hi, I am a Full-Stack Developer. I started my developer journey during COVID in 2020. I have also completed my IBM Data Analyst certification. My core focus now, is specializing in my areas of interest including Development, AI Engineering. I have a finance and business background and continue to focus on the three areas around technology, being Finance, Data and Business. You will find more information on my website.
+Hi, I am Erik. I am a tax practitioner and accountant by background (who has always had a keen interest in tech). 
+I have worked in both the corporate environment and had independent businesses which I have started from scratch. Some I have sold, some I failed at, and some closed. So, I have paid my fair share of school fees 😊. 
+My family and I moved to the UK just before COVID. During the lockdowns I took the opportunity to develop my tech skills. I am now a full-stack developer. I also completed my IBM Data Analyst certification and busy with Cyber Security. 
+I continue to focus on the three areas of interest using technology including AI, being finance, data and business. Visit my website for more.
 
 
 ## 🌐 Socials:
