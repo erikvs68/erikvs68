@@ -2,7 +2,7 @@
 # 💫 About Me:
 Hi, I am Erik. I am a tax practitioner and accountant (who has always had a keen interest in tech). 
 
-My family and I moved to the UK just before COVID. 
+My family and I moved to the UK just before the pandemic. 
 
 During the lockdowns I took the opportunity to develop my tech skills. I am now a full-stack developer. 
 
