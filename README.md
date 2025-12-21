@@ -1,9 +1,18 @@
 
 # 💫 About Me:
-Hi, I am Erik. I am a tax practitioner and accountant (who has always had a keen interest in tech). 
-My family and I moved to the UK just before the pandemic.
-During the lockdowns I took the opportunity to develop my tech skills. I am now an AI Full-Stack Engineer.
-I continue to focus on my three areas of interest using technology with AI, being finance, data and business.
+
+Driving Business Impact Through Data, Finance, and Technology
+
+I transform complex business challenges into scalable solutions by bridging the gap between financial strategy, data-driven insights, and cutting-edge AI technology. With over a decade of senior-level experience, I bring a unique perspective that few professionals possess: the ability to understand what the numbers mean, extract the story they tell, and build the systems that turn insights into action.
+
+The Value I Deliver
+
+My strength lies in solving problems that sit at the intersection of finance, analytics, and technology. I don't just build applications or run reports—I create end-to-end solutions that directly impact the bottom line. Whether it's developing AI-powered financial models, designing data pipelines that streamline analysis, or building full-stack applications that improve critical business processes, I focus on outcomes that matter.
+I bridge the gap between business strategy and technical execution, translating vision into architecture and data insights into actionable recommendations. When you work with me, you get someone who understands the financial implications of technical decisions, the analytical rigor needed for sound business strategy, and the development expertise to build production-ready solutions.
+
+What Sets Me Apart
+
+The combination of deep financial acumen, advanced analytical capabilities, and full-stack AI development skills means I can own projects from concept to deployment. I've spent 10+ delivering measurable business value. 
 
 
 ## 🌐 Socials:
