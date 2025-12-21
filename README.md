@@ -7,7 +7,7 @@ I transform complex business challenges into scalable solutions by bridging the 
 
 The Value I Deliver
 
-My strength lies in solving problems that sit at the intersection of finance, analytics, and technology. I don't just build applications or run reports—I create end-to-end solutions that directly impact the bottom line. Whether it's developing AI-powered financial models, designing data pipelines that streamline analysis, or building full-stack applications that improve critical business processes, I focus on outcomes that matter.
+My strength lies in solving problems that sit at the intersection of finance, analytics, and technology. I don't just build applications or run reports—I create end-to-end solutions that directly impact the bottom line. Whether it's developing AI-powered financial models, or building full-stack applications that improve critical business processes, I focus on outcomes that matter.
 I bridge the gap between business strategy and technical execution, translating vision into architecture and data insights into actionable recommendations. When you work with me, you get someone who understands the financial implications of technical decisions, the analytical rigor needed for sound business strategy, and the development expertise to build production-ready solutions.
 
 What Sets Me Apart
