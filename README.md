@@ -1,17 +1,13 @@
 
 # 💫 About Me:
 
-Driving Business Impact Through Data, Finance, and Technology
+Senior Finance Analyst, Data Analyst, and AI Full-Stack Developer specializing in FP&A, finance transformation, and driving business impact through data, finance, and technology.
+ 
+With 10+ years of senior-level experience, I transform business challenges into solutions by bridging financial planning and analysis (FP&A), strategic forecasting, and technology.
 
-I transform complex business challenges into scalable solutions by bridging the gap between financial strategy, data-driven insights, and cutting-edge AI technology. With over a decade of senior-level experience, I bring a unique perspective: the ability to understand what the numbers mean, extract the story they tell, and build the systems that turn insights into action.
-
-The Value I Deliver
-
-My strength lies in solving problems that sit at the intersection of finance, analytics, and technology. I don't just build applications or run reports—I create end-to-end solutions that directly impact the bottom line. Whether it's developing AI-powered financial models, or building full-stack applications that improve critical business processes, I focus on outcomes that matter. When you work with me, you get someone who understands the financial implications of technical decisions, the analytical rigor needed for sound business strategy, and the development expertise to build production-ready solutions.
-
-What Sets Me Apart
-
-The combination of deep financial acumen, advanced analytical capabilities, and full-stack AI development skills means I can own projects from concept to deployment. I've spent 10+ delivering measurable business value. 
+The use of financial modeling, budgeting, process optimisation, and transformation initiatives to deliver measurable value by streamlining operations and enhancing financial decision-making.
+ 
+Proven stakeholder engagement, cross-functional collaboration, risk management, and the ability to adapt to dynamic environments, including international relocation during the pandemic. 
 
 
 ## 🌐 Socials:
