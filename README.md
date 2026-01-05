@@ -7,7 +7,7 @@ With 10+ years of senior-level experience, I transform business challenges into 
 
 The use of financial modeling, budgeting, process optimisation, and transformation initiatives to deliver measurable value by streamlining operations and enhancing financial decision-making.
  
-Proven stakeholder engagement, cross-functional collaboration, risk management, and the ability to adapt to dynamic environments, including international relocation during the pandemic. 
+Stakeholder engagement, cross-functional collaboration, risk management, and the ability to adapt to dynamic environments. 
 
 
 ## 🌐 Socials:
