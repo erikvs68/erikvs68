@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-I have combined my years of finance expertise with technology and AI.
+I have combined my years of finance and business expertise with technology including AI.
 
 As a Hybrid AI/Finance Specialist, I combine the strategic oversight of a Senior Finance Analyst with the technical execution of an AI Full-Stack Developer.
 
