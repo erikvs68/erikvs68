@@ -6,7 +6,7 @@ I have combined my years of finance and business expertise with technology inclu
 As a Hybrid AI/Finance Specialist, I combine the strategic oversight of a Senior Finance Analyst with the technical execution of an AI Full-Stack Developer.
 
 What I bring to the table:
-Strategic Finance: 15+ years of FP&A, P&L ownership, and commercial modeling focusing on problems that need solving.
+Strategic Finance: 10+ years of FP&A, P&L ownership, and commercial modeling focusing on problems that need solving.
 AI Engineering: Building production ready applications and tools that automate complex financial reasoning and audit tasks.
 Full-Stack Deployment: The ability to architect, code, and deploy custom financial software from the database to the interface.
 The Goal: To transition organizations from "Reactive Finance" (looking at last month’s data) to "Autonomous Finance" (real-time, AI-driven predictive steering).
