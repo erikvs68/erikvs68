@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-# Senior Finance Analyst | FP&A × AI Full-Stack | 10+ Years | Building Intelligent Finance Systems
+# Senior Finance Analyst | FP&A × AI Full-Stack | 10+ Years
 
 I’m a Senior Finance Analyst with 10+ years of experience in FP&A, financial modelling, and finance transformation. I sit on the wall between Finance and Engineering combining deep financial expertise with full-stack AI development to build the systems that make better decisions possible.
 
@@ -10,9 +10,9 @@ I don’t just analyse numbers. I design and ship the tools, pipelines, and AI-p
 Core focus areas:
 • FP&A & strategic finance (forecasting, budgeting, variance analysis, scenario planning, business partnering)
 • Data analytics & automation (SQL, Python, Power BI / advanced visualisation)
-• AI Full-Stack development (React, Python, Node.js, end-to-end applications for finance and beyond)
+• AI Full-Stack development (React, Nextjs, Python, Node.js, end-to-end applications for finance and beyond)
 
-Based in Dunfermline, Scotland (easy alignment with UK & EU time zones). Open to senior FP&A, finance analytics, finance transformation, or hybrid finance + AI roles where I can own outcomes from insight to deployed solution.
+Based in Dunfermline, Scotland (easy alignment with UK & EU time zones).
 
 
 
