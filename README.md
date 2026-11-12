@@ -3,7 +3,7 @@
 
 # Accounting, Tax & Data Analytics combined with AI Full-Stack Engineering
 
-20+ years in accounting and tax, plus FP&A, financial modelling, and transformation. Now also building AI-powered apps and autonomous finance tooling. From spreadsheets and models to production interfaces: React, Next.js, Python, and full-stack.
+Extensive experience in accounting and tax, plus FP&A, financial modelling, and transformation. Now also building AI-powered apps and autonomous finance tooling. From spreadsheets and models to production interfaces: React, Next.js, Python, and full-stack.
 
 
 
